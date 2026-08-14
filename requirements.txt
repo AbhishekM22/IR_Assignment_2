@@ -6,3 +6,4 @@ nltk
 networkx
 matplotlib
 plotly
+datasets
