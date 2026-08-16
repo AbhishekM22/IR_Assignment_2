@@ -20,7 +20,7 @@ This project implements an end-to-end Information Retrieval (IR) and Content-Bas
 ### 2. Install Dependencies
 Run the following command in your terminal to install all required libraries:
 
-```bash
+bash
 pip install -r requirements.txt
 
 
