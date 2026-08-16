@@ -499,7 +499,7 @@ elif selected_page == "⚡ Performance Analytics":
     )
 
 # =========================================================
-# MODULE 10: INFERENCES & INSIGHTS (SECTION G)
+# MODULE 10: INFERENCES & INSIGHTS
 # =========================================================
 elif selected_page == "📊 Inferences & Insights":
     render_inferences_page()
