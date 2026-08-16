@@ -3,8 +3,8 @@ import streamlit as st
 
 
 def render_inferences_page():
-    """Renders Section G: Inference and Discussion Report with raw string LaTeX formatting."""
-    st.header("Section G: Inference and Discussion")
+    """Renders  Inference and Discussion Report with raw string LaTeX formatting."""
+    st.header("Inference and Discussion")
     st.caption("Compulsory Analytical Report & Empirical System Inferences")
 
     # Question 1
